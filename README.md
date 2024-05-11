@@ -11,7 +11,7 @@
 - import {Component} from path;
 
 
-/***************************** React Hooks ***************************/
+/********************************* React Hooks **********************************/
 Hooks => Normal JS utility functions - Written by Facebook developers. 
 1. useState - Whenever a state variable updates, react re-renders the component.
 2. useEffect 
