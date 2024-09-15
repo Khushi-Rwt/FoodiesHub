@@ -18,6 +18,7 @@ Hooks => Normal JS utility functions - Written by Facebook developers.
 1. useState - Whenever a state variable updates, react re-renders the component.
 2. useEffect 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 /*************************** Conditional Rendering ***********************/
@@ -77,5 +78,7 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
 
 # Higher Order Component - This is the function that takes the component and enhances the component & then return it back.
+=======
+>>>>>>> 4ca42d7750791362afe2e88b95196dfe41abf8fc
 =======
 >>>>>>> 4ca42d7750791362afe2e88b95196dfe41abf8fc
