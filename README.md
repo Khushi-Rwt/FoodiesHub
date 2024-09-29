@@ -78,7 +78,23 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
 
 # Higher Order Component - This is the function that takes the component and enhances the component & then return it back.
-=======
->>>>>>> 4ca42d7750791362afe2e88b95196dfe41abf8fc
-=======
->>>>>>> 4ca42d7750791362afe2e88b95196dfe41abf8fc
+
+# Redux Toolkit
+- Install @reduxjs/toolkit and react-redux
+- Build our store
+- Connect our store to our app
+- Slice (cartSlice)
+- Dispatch (action)
+- Selector
+ 
+# Types of testing (developer)
+- Unit testing
+- Integration Testing
+- End to End Testing - ETE testing
+
+# Setting up Testing in our app
+- Install React Testing library
+- Install JEST
+- Install Babel dependencies
+- Configure Babel
+- Configure Parcel Config file to disable default babel transpilation
